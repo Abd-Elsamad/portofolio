@@ -65,12 +65,6 @@ HTML5 • CSS3 • JavaScript • Git • GitHub
 
 ---
 
-## 📸 Preview
-
-> Replace this section with screenshots or an animated GIF of your portfolio.
-
----
-
 ## 🌐 Live Demo
 
 **Portfolio:** YOUR_PORTFOLIO_LINK
