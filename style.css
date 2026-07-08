@@ -363,8 +363,9 @@ justify-content:center;
 }
 
 .home-image img{
-
+height:420px;
 width:420px;
+object-fit:cover;
 
 max-width:100%;
 
@@ -1320,8 +1321,9 @@ box-shadow:
 
 background:linear-gradient(90deg,#fff,#60a5fa);
 
+background-clip: text; /* fallback/standard declaration */
 -webkit-background-clip:text;
-
+color: transparent; /* fallback for browsers that support background-clip without webkit-text-fill */
 -webkit-text-fill-color:transparent;
 
 }
